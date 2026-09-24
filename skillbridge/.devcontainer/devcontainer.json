@@ -1,0 +1,15 @@
+{
+  "name": "SkillBridge",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "forwardPorts": [8000, 5173],
+  "portsAttributes": {
+    "8000": { "label": "SkillBridge API", "visibility": "public", "onAutoForward": "notify" },
+    "5173": { "label": "SkillBridge web", "onAutoForward": "openPreview" }
+  },
+  "postCreateCommand": "cd frontend && npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "dbaeumer.vscode-eslint", "bradlc.vscode-tailwindcss"]
+    }
+  }
+}

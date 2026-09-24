@@ -1,0 +1,43 @@
+RAVI SHANKAR
+B.E. Computer Science, 2026 · Chennai · ravi.shankar@student.dev
+
+SUMMARY
+Third year CS student aiming at data analyst roles. Comfortable turning messy
+spreadsheets into something a team can act on.
+
+EDUCATION
+Anna University College of Engineering — B.E. Computer Science, 2022-2026
+CGPA 8.1/10. Coursework: Database Systems, Statistics for Engineers,
+Data Structures and Algorithms, Operating Systems, Machine Learning (elective).
+
+PROJECTS
+Campus Placement Tracker (2025)
+Built a dashboard that pulls four years of placement records out of Excel and into
+PostgreSQL, then reports offer rates by department. Wrote the SQL views and the
+Python ETL script. Used by the placement cell for the 2025 drive.
+
+Retail Sales Analysis (2025)
+Analysed 180k transaction rows with pandas to find which product lines were losing
+margin. Cleaned the data, ran the cohort analysis, and presented findings to the
+department in a Power BI report.
+
+Hostel Complaint Portal (2024)
+Developed a small Flask app with a SQLite backend for logging and tracking hostel
+maintenance complaints. Handled the database design and the REST endpoints.
+
+TECHNICAL SKILLS
+Python (pandas, numpy), SQL, Excel, Git, basic Flask, matplotlib
+Familiar with: Power BI, statistics, data cleaning
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate — Coursera, 2025
+NPTEL Database Management Systems — Elite, 2024
+
+EXPERIENCE
+Data Intern, Meridian Logistics (Summer 2025, 2 months)
+Wrote SQL queries against the shipments database to find late-delivery patterns.
+Automated a weekly report that had been assembled by hand.
+
+ACHIEVEMENTS
+Runner-up, inter-college analytics hackathon 2025.
+Class representative, 2024-2025. Coordinated the department technical symposium.
